@@ -72,3 +72,14 @@ References:
 
 [http://proceedings.mlr.press/v37/kusnerb15.pdf](url)
 
+Acknowledgments
+
+Note: Some assistance was taken from ChatGPT to generate and refine parts of the code used in this project.
+Research Paper References-
+https://medium.com/@jainrachit124/detecting-duplicate-question-pairs-on-quora-dataset-using-natural-language-processing-c16a22a66dfb
+https://huggingface.co/datasets/sentence-transformers/quora-duplicates
+
+
+
+
+
